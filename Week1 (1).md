@@ -39,7 +39,7 @@ https://www.youtube.com/watch?v=D46j-e_IHlI&list=PLVsNizTWUw7FGzSRCkQrPEEe-ljVXg
 # 1️⃣ 개념 정리 
 
 ## 01. 데이터 분석이란
-
+안녕하세요
 <!-- 새롭게 배운 내용을 자유롭게 정리해주세요.-->
 
 ## 02. 구글 코랩과 주피터 노트북
@@ -52,6 +52,7 @@ https://www.youtube.com/watch?v=D46j-e_IHlI&list=PLVsNizTWUw7FGzSRCkQrPEEe-ljVXg
 
 
 # 2️⃣ 수행 인증
+<img width="2880" height="1800" alt="스크린샷(416)" src="https://github.com/user-attachments/assets/475044f1-7097-498c-8491-72255cdd5503" />
 
 <!-- 교재에서 안내된 과정을 직접 실행해본 뒤, 진행 결과가 보이도록 4~6장의 스크린샷을 캡처하여 이 글을 지우고 첨부해주세요.-->
 
