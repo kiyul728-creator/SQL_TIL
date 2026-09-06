@@ -60,22 +60,7 @@ https://www.youtube.com/watch?v=D46j-e_IHlI&list=PLVsNizTWUw7FGzSRCkQrPEEe-ljVXg
 (일반 파이썬 프로그램에서는 순서대로 실행되기 때문에 변수 값이 거꾸로 수정될 수 없음)
 
 4. 마크다운 서식
-# 제목1 
-## 제목2 
-### 제목3
-#### 제목4
-#####제목 5
-**혼공분석**
-*혼공분석*
-_혼공분석_
-~~혼공분석~~
-`print("Hello World!")`
-> 혼공분석
-* 혼공분석
-- 혼공분석
-[한빛미디어](http://www.hanbit.co.kr/)
-![한빛미디어](http://www.hanbit.co.kr/images/common/logo_hanvit.png)
-$y=x\times z$
+<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/4ff33141-9c71-4040-b9a1-59c47130ae33" />
 
 
 
