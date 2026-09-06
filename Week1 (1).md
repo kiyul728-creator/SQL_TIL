@@ -52,7 +52,7 @@ https://www.youtube.com/watch?v=D46j-e_IHlI&list=PLVsNizTWUw7FGzSRCkQrPEEe-ljVXg
 
 ## 02. 구글 코랩과 주피터 노트북
 
-1. 구글 코랩은 웹 브라우저에서 무료로 팡썬 프로그램을 테스트하고 저장할 수 있는 서비스다. 코랩에서 텍스트 셀을 추가하면 셀 툴바를 사용하여 다양한 형태로 글을 꾸밀 수 있다
+1. 구글 코랩은 웹 브라우저에서 무료로 파이썬 프로그램을 테스트하고 저장할 수 있는 서비스다. 코랩에서 텍스트 셀을 추가하면 셀 툴바를 사용하여 다양한 형태로 글을 꾸밀 수 있다
 
 2. 구글드라이브와 구글 코랩은 연동이 잘 되어 있다. 구글드라이브에서 저장되어 있는 노트북을 바로 구글 코랩으로 연결 시킬 수 있고 구글 코랩에서 구글드라이브에 저장 되어 있는 노트북을 연결 시킬 수 있다.
 
@@ -85,7 +85,13 @@ $y=x\times z$
 
 
 # 2️⃣ 수행 인증
-<img width="2880" height="1800" alt="스크린샷(416)" src="https://github.com/user-attachments/assets/475044f1-7097-498c-8491-72255cdd5503" />
+<img width="2880" height="1800" alt="스크린샷(460)" src="https://github.com/user-attachments/assets/4a37eaf3-6e77-452b-a239-fb2d2d9d7dfc" />
+<img width="2880" height="1800" alt="스크린샷(461)" src="https://github.com/user-attachments/assets/ffe5add9-9eac-427c-870e-6c5d19aacb0f" />
+<img width="2880" height="1800" alt="스크린샷(470)" src="https://github.com/user-attachments/assets/c0c454cd-5255-433b-bf98-51d45fa29d24" />
+<img width="2880" height="1800" alt="스크린샷(471)" src="https://github.com/user-attachments/assets/65000ef3-72ac-4ee6-85ed-98abf362a3a7" />
+<img width="2880" height="1800" alt="스크린샷(472)" src="https://github.com/user-attachments/assets/0f51955c-bef6-4490-9394-e7bd4deb309c" />
+<img width="2880" height="1800" alt="스크린샷(473)" src="https://github.com/user-attachments/assets/545b5507-d3b8-49b8-9be0-2f9f216150c0" />
+
 
 <!-- 교재에서 안내된 과정을 직접 실행해본 뒤, 진행 결과가 보이도록 4~6장의 스크린샷을 캡처하여 이 글을 지우고 첨부해주세요.-->
 
