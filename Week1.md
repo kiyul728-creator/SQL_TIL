@@ -66,17 +66,17 @@ SQL_BASIC 정규 과제는 매주 정해진 분량의 `초보자를 위한 BigQu
 ## 01.
 
 ```
-개념 이름:
-개념 설명:
-활용 상황:
+개념 이름: BigQuery
+개념 설명: Google Cloud의 OLAP + Data Warehouse = Big Query
+활용 상황: 회사에서 앱이나 웹에서 Firebase, google Analytics4를 활용할 경우, 운영을 적은 비용으로 진행하기 위해서 사용한다.
 ```
 
 ## 02.
 
 ```
-개념 이름:
-개념 설명:
-활용 상황:
+개념 이름: SQL
+개념 설명: 데이터베이스에서 데이터를 가지고 올 때 사용하는 언어
+활용 상황: 데이터베이스에 저장된 데이터를 분석할 경우 사용한다.
 ```
 
 ## (선택) 03.
@@ -93,8 +93,8 @@ SQL_BASIC 정규 과제는 매주 정해진 분량의 `초보자를 위한 BigQu
 
 아래 중 하나 이상을 첨부해주세요.
 
-- 강의 수강 화면 캡처
-- 이번 주 학습 내용을 정리한 노트 캡처
+<img width="2408" height="1284" alt="image" src="https://github.com/user-attachments/assets/9102133f-9033-4f1d-a7be-32d354f5f46c" />
+
 
 ---
 
