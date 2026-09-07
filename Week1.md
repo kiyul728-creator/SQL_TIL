@@ -93,7 +93,8 @@ SQL_BASIC 정규 과제는 매주 정해진 분량의 `초보자를 위한 BigQu
 
 아래 중 하나 이상을 첨부해주세요.
 
-<img width="2408" height="1284" alt="image" src="https://github.com/user-attachments/assets/9102133f-9033-4f1d-a7be-32d354f5f46c" />
+<img width="2272" height="1160" alt="image" src="https://github.com/user-attachments/assets/7b3dee87-c4b9-4e63-9305-2a0e4aa42575" />
+
 
 
 ---
@@ -137,9 +138,9 @@ SQL_BASIC 정규 과제는 매주 정해진 분량의 `초보자를 위한 BigQu
 # 4️⃣ 이번 주 회고
 
 ```
-1. SQL을 처음 써보면서 가장 낯설었던 점:
-2. 다음 주에 더 익숙해지고 싶은 부분:
-3. 과제 진행 중 막혔던 부분이 있다면:
+1. SQL을 처음 써보면서 가장 낯설었던 점: google cloude 콘솔 UI가 익숙하지 않았다.
+2. 다음 주에 더 익숙해지고 싶은 부분: 일단 콘솔 UI에 더 익숙해지고 다양한 쿼리문을 연습해보고 싶다.
+3. 과제 진행 중 막혔던 부분이 있다면: 간단한 쿼리문을 사용하는 해보는 것
 ```
 
 수고하셨습니다!
