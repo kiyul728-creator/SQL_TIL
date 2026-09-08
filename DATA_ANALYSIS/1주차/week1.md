@@ -84,12 +84,12 @@ https://www.youtube.com/watch?v=D46j-e_IHlI&list=PLVsNizTWUw7FGzSRCkQrPEEe-ljVXg
    (3) for : 특정 코드를 정해진 횟수만큼 반복하거나, 목록 안의 값들을 하나씩 차례로 꺼내면서 처
    리 하는 반복문
 
-   *1   for i in range(3):
-            print(f.readline(), end='')
-   range(3): 0, 1, 2 라는 3개 숫자를 만들어냄
-   for i in ...: 그 값들을 하나씩 i에 넣으면서, 아래 들여쓰기 된 코드를 그 횟수만큼(여기선 3번)
+   *1  ```for i in range(3):
+            print(f.readline(), end='')```
+   - range(3): 0, 1, 2 라는 3개 숫자를 만들어냄
+   - for i in ...: 그 값들을 하나씩 i에 넣으면서, 아래 들여쓰기 된 코드를 그 횟수만큼(여기선 3번)
    반복 실행
-   end='' 를 지정하면 줄바꿈 문자를 출력하지 않는다.
+   - end='' 를 지정하면 줄바꿈 문자를 출력하지 않는다.
 
    (4) low_memory=False : pd.read_csv()의 매개변수. 파일을 나눠서(청크 단위) 읽지 않고, 한 번에      전체를 다 읽으라는 뜻
  
