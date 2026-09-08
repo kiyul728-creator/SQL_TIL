@@ -84,8 +84,8 @@ https://www.youtube.com/watch?v=D46j-e_IHlI&list=PLVsNizTWUw7FGzSRCkQrPEEe-ljVXg
    (3) for : 특정 코드를 정해진 횟수만큼 반복하거나, 목록 안의 값들을 하나씩 차례로 꺼내면서 처
    리 하는 반복문
 
-   *1  ```for i in range(3):
-            print(f.readline(), end='')```
+   *1  ```for i in range(3):```
+            ```print(f.readline(), end='')```
    - range(3): 0, 1, 2 라는 3개 숫자를 만들어냄
    - for i in ...: 그 값들을 하나씩 i에 넣으면서, 아래 들여쓰기 된 코드를 그 횟수만큼(여기선 3번)
    반복 실행
