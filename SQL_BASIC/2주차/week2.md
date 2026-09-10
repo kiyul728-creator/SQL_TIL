@@ -108,7 +108,7 @@ FROM basic.pkemon
 # 2️⃣ 수행 인증란
 
 아래 중 하나 이상을 첨부해주세요.
-![alt text](스크린샷(508).png) ![alt text](스크린샷(509).png) ![alt text](스크린샷(510).png) ![alt text](스크린샷(511).png) ![alt text](스크린샷(512).png) ![alt text](스크린샷(513).png) ![alt text](스크린샷(514).png)![alt text](스크린샷(515).png) ![alt text](스크린샷(517).png)
+![alt text](./week2_image/스크린샷(508).png) ![alt text](./week2_image/스크린샷(509).png) ![alt text](./week2_image/스크린샷(510).png) ![alt text](./week2_image/스크린샷(511).png) ![alt text](./week2_image/스크린샷(512).png) ![alt text](./week2_image/스크린샷(513).png) ![alt text](./week2_image/스크린샷(514).png)![alt text](./week2_image/스크린샷(515).png) ![alt text](./week2_image/스크린샷(517).png)
 
 ---
 
